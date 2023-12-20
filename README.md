@@ -26,7 +26,7 @@ To get a local copy of the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/faq-accordion-card.git
-```
+   ```
 
 1. Navigate to the project directory:
 cd faq-accordion-card
